@@ -1,0 +1,21 @@
+# Streamlit UI framework
+streamlit>=1.32.0
+
+# LLM providers
+# OpenRouter (default) uses only requests; google-generativeai is optional fallback.
+requests>=2.31.0
+google-generativeai>=0.8.0
+
+# File parsing for resume uploads
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+
+# PDF export
+fpdf2>=2.7.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Testing (optional for hackathon)
+pytest>=8.0.0
+hypothesis>=6.100.0

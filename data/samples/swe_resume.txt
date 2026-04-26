@@ -1,0 +1,33 @@
+Jane Doe
+Backend Software Engineer
+jane.doe@example.com | linkedin.com/in/janedoe
+
+Summary
+Backend engineer with 6 years of experience building production Python services.
+Comfortable with AWS, PostgreSQL, and REST API design. Looking to move into a
+more senior role focused on payments or fintech.
+
+Experience
+
+Senior Software Engineer — ShopMart (2021 - present)
+- Led redesign of the order service handling ~2M requests/day
+- Built Python (FastAPI) microservices deployed on AWS ECS
+- Migrated legacy MySQL database to PostgreSQL with zero downtime
+- Wrote extensive unit tests with pytest; CI/CD via GitHub Actions
+- Mentored 2 junior engineers through their first production launches
+
+Software Engineer — StreamCo (2019 - 2021)
+- Built REST APIs in Python (Django) for internal tools
+- Worked with AWS Lambda and SQS for async processing (2 years)
+- Wrote integration tests and participated in code reviews
+
+Junior Engineer — WebFirm (2018 - 2019)
+- Built CRUD features in Python/Django
+- Learned SQL, REST basics, git workflows
+
+Skills
+Python (6y), PostgreSQL (4y), REST APIs (6y), AWS (Lambda, ECS, SQS, RDS - 4y),
+Docker (3y), pytest, GitHub Actions, Datadog, basic Kubernetes exposure
+
+Education
+B.S. Computer Science, State University — 2018

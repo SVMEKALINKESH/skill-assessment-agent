@@ -1,0 +1,29 @@
+Ravi Kumar
+Data Analyst / Junior Data Scientist
+ravi.kumar@example.com
+
+Summary
+Analytical data professional with 2 years of experience applying Python and SQL
+to real business problems. Passionate about experimentation and clean data
+pipelines. Eager to grow into a full data scientist role.
+
+Experience
+
+Data Analyst — InsightCo (2023 - present)
+- Built dashboards in Python/pandas and Looker for the growth team
+- Wrote complex SQL queries (window functions, CTEs) against a Postgres warehouse
+- Partnered with product team on 5 A/B tests, running significance analyses
+- Automated weekly reports with Python scripts + Airflow (basic usage, 1 year)
+
+Analytics Intern — DataCorp (Summer 2022)
+- Cleaned and explored customer datasets with pandas
+- Built a simple churn classification model with scikit-learn (logistic regression- Built a simple churn classification model with scikit-learn (logistic regression- Built a simpsics
+SQL (2y): window functions, CTEs, query optimisation
+A/B testing and hypothesis testing (1 year)
+Airflow (basic, 1 year)
+Visualisation: matplotlib, Looker
+Familiar with: PyTorch (coursework only)
+
+Education
+B.Sc. Mathematics, City University — 2022
+Online coursework: Fast.ai Practical Deep Learning (in progress)

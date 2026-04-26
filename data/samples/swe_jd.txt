@@ -1,0 +1,29 @@
+Senior Backend Engineer — FinCo
+
+We're building the next generation of payments infrastructure and looking for a
+Senior Backend Engineer to join our core platform team.
+
+About the role
+You'll own services that handle millions of transactions per day. You'll work
+closely with Product, SRE, and Risk teams to design, build, and operate reliable
+distributed systems.
+
+Required skills
+- 5+ years of backend experience in Python or Go
+- Strong experience with relational databases (PostgreSQL preferred)
+- Deep understanding of REST API design and versioning
+- 3+ years of experience with AWS (Lambda, ECS, RDS, SQS)
+- Solid grasp of Docker and container-based deployments
+- Experience writing unit and integration tests (expect TDD-friendly workflows)
+- Familiarity with observability tools (Datadog, Prometheus, or similar)
+
+Nice to have
+- Experience with event-driven architectures (Kafka, Kinesis)
+- Kubernetes production experience
+- gRPC and protobuf familiarity
+- Experience with financial or payments systems
+
+Soft skills
+- Strong written communication (design docs, RFCs)
+- Comfortable mentoring junior engineers
+- Able to lead scoping discussions with product and cross-functional partners

@@ -1,0 +1,14 @@
+Data Scientist — AdTech Startup
+
+We're looking for a Data Scientist to help us improve ad targeting and
+measurement. You'll work on real data at scale, partner with ML engineers to
+productionise your models, and communicate findings to non-technical stakeholders.
+
+Required
+- 3+ years of hands-on data science experience
+- Strong Python (pandas, numpy, scikit-learn)
+- Solid SQL skills (window functions, CTEs)
+- Experience building and evaluating ML models (classification, regression)
+- Comfortable with A/B testing and statistical hypothesis testing
+- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to non-technical- Experience presenting insights to ten communication (reports, memos)
+- Able to scope ambiguous problems into tractable experiments
