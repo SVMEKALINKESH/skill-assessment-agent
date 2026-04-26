@@ -10,7 +10,7 @@ Built for the _AI-Powered Skill Assessment & Personalised Learning Plan Agent_ h
 
 Or run locally — see [Local Setup](#-local-setup) below.
 
-## ✨ What the Agent Does
+## ✨ What the Agent Does - Detailed Flow is explaing in docs/architecture.md
 
 1. **Parses your resume** (PDF / DOCX / TXT) and a **pasted JD** — or generates a realistic JD for any company + role
 2. **Extracts skills** from both sides with full metadata (category, required level, years, importance, role seniority, soft vs hard)
